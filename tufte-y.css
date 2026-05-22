@@ -147,13 +147,6 @@ hr {
   padding: 0;
 }
 
-h1 + p {
-  font-style: italic;
-  font-size: 1.8rem;
-  display: block;
-  line-height: 1;
-}
-
 time {
   font-family: et-book-roman-old-style;
 }
