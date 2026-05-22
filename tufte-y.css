@@ -484,7 +484,7 @@ figure.fullwidth svg {
 }
 
 .tick text {
-  font-family: inherit !important;
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
   font-size: 11px;
   fill: var(--text);
 }
