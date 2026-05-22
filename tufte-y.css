@@ -104,7 +104,7 @@ aside,
 li,
 td,
 th {
-  max-width: 30rem;
+  max-width: 42rem;
 }
 pre {
   margin: 0;
@@ -244,7 +244,7 @@ figure {
   font: inherit;
   vertical-align: baseline;
   margin: 0 0 3em 0;
-  max-width: 30rem;
+  max-width: 42rem;
 }
 figcaption {
   float: right;
@@ -438,7 +438,7 @@ table {
   border-collapse: collapse;
   font-size: 1.1rem;
   overflow-x: auto;
-  max-width: 30rem;
+  max-width: 42rem;
 }
 
 caption {
