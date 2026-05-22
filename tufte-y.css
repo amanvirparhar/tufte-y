@@ -484,7 +484,7 @@ figure.fullwidth svg {
 }
 
 .tick text {
-  font-family: inherit;
+  font-family: inherit !important;
   font-size: 11px;
   fill: var(--text);
 }
