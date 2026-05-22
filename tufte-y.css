@@ -339,7 +339,7 @@ p + dl {
   list-style-type: none;
 }
 li {
-  margin: 1em;
+  margin: 0 1em;
 }
 
 aside,
