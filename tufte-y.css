@@ -442,6 +442,10 @@ table {
   overflow-x: auto;
 }
 
+caption {
+  margin-bottom: 0.5em;
+}
+
 th {
   border-bottom: 1px solid var(--text);
   text-align: left;
